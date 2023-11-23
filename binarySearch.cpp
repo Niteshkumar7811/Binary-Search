@@ -1,3 +1,8 @@
+/*
+Binary search is an efficient algorithm for finding an item from a sorted list of items. 
+It works by repeatedly dividing the search range in half.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
